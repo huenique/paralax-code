@@ -17,8 +17,6 @@ You will be allowed to chat once you are verified by us :)
 
   It is basically an auto response bot, that can also 'learn'. If there is a question that the bot is unaware of, it will ask you to teach it instead of dismissing it with 'I don't know'. The knowledge that you entered into the bot, will be stored, so all you have to do is re-run the program to use it
 
-## Ongoing projects
-
 - Paralax-bot
 The paralax bot is a simple discord bot that has multiple commands(about 70-80), and I felt was a great project to work on as a team. After setting it up, the main programmers being 404, Ray and myself, we were able to get through things quickly, as we were all sorta good at python already.
 
@@ -27,6 +25,12 @@ The paralax bot is a simple discord bot that has multiple commands(about 70-80),
 - Safe Chat Application
 
   We call it a 'safe' chat application, because our idea is that only people with the same wifi can connect, and chat in this application. This is highly in convinient, and impractical, it cannot be actually sold, since no one, is actually gonna only want to be able to message people in their house only. We are using pyQt5 and sockets, again, the main people working on this, are, me(blankRiot96) and rayzchen. Me, working on the servers and clients, while he works on the GUI.
+
+## Ongoing projects
+
+- Web Browser
+
+We havent decided on a name yet, but we are working on a web browser
 
 ## Planned projects
 
