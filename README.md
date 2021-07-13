@@ -28,9 +28,35 @@ The paralax bot is a simple discord bot that has multiple commands(about 70-80),
 
 ## Ongoing projects
 
-- Web Browser
+- Prax - A Web Browser made by Paralax
 
-We havent decided on a name yet, but we are working on a web browser
+  Prax is a web browser developed by us. The main people working on this are 
+  For the Web Browser,
+
+The name we decided on is Prax
+Roles:
+@ 4 oh 4 
+Logic, With Python
+
+@ cnif.coffee 
+Logic, With Python
+
+@ Ray 
+Logic, With Python
+
+@ ItsNil
+UI, with Python
+
+@ Axis 
+UI, with Python
+
+@ RT | Ping to reply 
+Design, with QSS 
+
+We are using Google's search engine, and Blink's rendering engine
+Prax was developed using pyQt, a modern and powerful GUI library, with QSS for Styling
+  
+
 
 ## Planned projects
 
